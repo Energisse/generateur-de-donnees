@@ -1,1 +1,1 @@
-# generateur-de-donnees
+# generateur_de_donnees
