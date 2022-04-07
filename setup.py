@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='generateur_de_donnees',
-    version='1.0.0',    
+    version='1.0.2',    
     description='Module de génération de données numérique et textuel',
     url='https://github.com/Energisse/generateur_de_donnees',  
     packages=['src'],
